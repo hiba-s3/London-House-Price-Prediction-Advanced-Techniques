@@ -3,9 +3,12 @@
 This repository contains a complete solution for the **London House Price Prediction (Advanced Techniques)** Kaggle competition.  
 The goal of this project is to **predict housing prices in London** using advanced **machine learning and deep learning techniques**.  
 
+---
+## 🎯 Competition
+This project is part of the Kaggle competition:  
+[London House Price Prediction – Advanced Techniques](https://www.kaggle.com/competitions/london-house-price-prediction-advanced-techniques)
 
 ---
-
 ##  Approach
 
 1. **Data Preprocessing**
